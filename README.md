@@ -13,4 +13,4 @@ Music Player features
 Screenshot:
 
 
-![image](https://user-images.githubusercontent.com/96374713/231052279-91d7bb8c-8cdf-440c-94e8-58c99a17699c.png)
+![image](https://user-images.githubusercontent.com/96374713/231180822-85277e53-22ec-4822-8b4b-1bf42f7955d3.png)
